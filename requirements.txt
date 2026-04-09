@@ -1,0 +1,7 @@
+# Vulnerable Application dependencies
+Flask==2.2.2
+Werkzeug==2.2.2
+
+# Testing and Security tools
+pytest==8.2.0
+pip-audit==2.7.3
